@@ -21,7 +21,7 @@ A pedagogical project developed during a rush on 3rd week of C++ pool at Epitech
 ### Developed by
 
 * **Natacha Drécourt** | *natacha.drecourt@epitech.eu*
-* **Valentin Pichard** | *valentin.pichard@epitech.eu*
+* **Valentin Pichard** | *https://github.com/w3st3ry*
 * **Antoine Baudrand** | *http://github.com/antoinegergy*
 * **Benjamin Audet** | *benjamin.audet@epitech.eu*
 
