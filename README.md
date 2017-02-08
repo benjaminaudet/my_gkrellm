@@ -22,7 +22,7 @@ A pedagogical project developed during a rush on 3rd week of C++ pool at Epitech
 
 * **Natacha Drécourt** | *natacha.drecourt@epitech.eu*
 * **Valentin Pichard** | *valentin.pichard@epitech.eu*
-* **Antoine Baudrand** | *antoine.baudrand@epitech.eu*
+* **Antoine Baudrand** | *http://github.com/antoinegergy*
 * **Benjamin Audet** | *benjamin.audet@epitech.eu*
 
 ### Thanks for that night of hardcoding
